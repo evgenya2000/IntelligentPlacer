@@ -38,6 +38,6 @@
       YES, если объекты помещаются в многоугольник
       NO, в противном случае
 ### Данные
-  Изображения 10 предметов хранятся в папке [iteam]:https://github.com/evgenya2000/IntelligentPlacer/tree/develop/data/iteams
-  Все тесты хранятся в папке [case]:https://github.com/evgenya2000/IntelligentPlacer/tree/develop/data/case
-  Описание предметов и тестов доступно по [ссылке]:https://github.com/evgenya2000/IntelligentPlacer/blob/develop/data/dataset.md
+  Изображения 10 предметов хранятся в папке [iteam](https://github.com/evgenya2000/IntelligentPlacer/tree/develop/data/iteams)
+  Все тесты хранятся в папке [case](https://github.com/evgenya2000/IntelligentPlacer/tree/develop/data/case)
+  Описание предметов и тестов доступно по [ссылке](https://github.com/evgenya2000/IntelligentPlacer/blob/develop/data/dataset.md)
