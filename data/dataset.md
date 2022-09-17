@@ -24,7 +24,7 @@
 
 5. Значок
 
-![badge](https://user-images.githubusercontent.com/72349827/190858063-f041392c-efbe-4b43-9639-40e21b8f5445.jpg)
+![badge](https://user-images.githubusercontent.com/72349827/190865749-a5653d88-95d0-4a33-b798-388f8900ff91.jpg)
 
 6. Кольцо
 
